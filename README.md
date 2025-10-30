@@ -18,9 +18,6 @@ Cache Management: Includes an "Upload New File" button to instantly clear the St
 
 1. Clone the Repository
 
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
-
 
 2. Create Virtual Environment (Recommended)
 
@@ -51,5 +48,6 @@ Ensure your code is pushed to a public GitHub repository.
 Go to the Streamlit Community Cloud website and create a new application.
 
 Point the app source to the app.py file in your repository's main branch.
+
 
 Streamlit will automatically use the requirements.txt file to install all necessary dependencies.
